@@ -64,7 +64,7 @@ CareBridge provides:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/care_bridge.git
+   git clone https://github.com/HC-1504/care_bridge.git
    cd care_bridge
    ```
 
