@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "30120796562",
+    "project_id": "carebridge-11d41",
+    "storage_bucket": "carebridge-11d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30120796562:android:70951b510a44d5766b614b",
+        "android_client_info": {
+          "package_name": "com.tarumt.app.care_bridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoL586CaSKSvsYRhPLjrXgumtLCWuK6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30120796562:android:14ba84c5584fc9636b614b",
+        "android_client_info": {
+          "package_name": "com.tarumt.myapp.scapps_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoL586CaSKSvsYRhPLjrXgumtLCWuK6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30120796562:android:fa6befd67abe1ab56b614b",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.care_bridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoL586CaSKSvsYRhPLjrXgumtLCWuK6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
